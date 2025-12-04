@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Vinícius
+# Vinícius Dias Sant'Ana
 
 Sou desenvolvedor **fullstack** com experiência em soluções modernas e escaláveis.  
 
@@ -18,6 +18,8 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 ---
 
 ## 📈 Atividade
+
+Atuo principalmente com **JavaScript, TypeScript, React/React Native, SolidJS, Node.js, PHP e MySQL**.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-icius&theme=react-dark" alt="Gráfico de atividades"/>
