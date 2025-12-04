@@ -1,6 +1,6 @@
 # Vinícius Dias Sant'Ana
 
-Sou desenvolvedor **fullstack** com experiência em soluções modernas e escaláveis.
+I am a **full-stack** developer with experience in modern and scalable solutions.
 
 ---
 
