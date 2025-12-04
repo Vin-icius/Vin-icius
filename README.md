@@ -4,7 +4,7 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vin-icius&theme=radical" alt="Streak de contribuições"/>
@@ -12,7 +12,7 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 
 ---
 
-## 📈 Atividade
+## Atividade
 
 Atuo principalmente com **JavaScript, TypeScript, React/React Native, SolidJS, Node.js, PHP e MySQL**.
 
@@ -22,7 +22,7 @@ Atuo principalmente com **JavaScript, TypeScript, React/React Native, SolidJS, N
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 
 <p align="center">
