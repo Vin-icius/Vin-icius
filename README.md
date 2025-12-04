@@ -10,7 +10,7 @@ Currently pursuing a Bachelor's degree in Information Systems (8th semester - UN
 
 # Featured Experience:
 
-*Supervised Internship | CASA DE SUCOS DE FRANCA LTDA:* I am developing an integrated system (Web and Mobile) to optimize the company's sales and purchasing operations, using Node.js for the back end and React.js for the front end. The project aims to deliver a complete solution for clients, suppliers, and the internal team. See more at: https://consumaja.com/ **STILL IN DEVELOPMENT**
+*Supervised Internship | CASA DE SUCOS DE FRANCA LTDA:* I am developing an integrated system (Web and Mobile) to optimize the company's sales and purchasing operations, using Node.js for the back end and React.js for the front end. The project aims to deliver a complete solution for clients, suppliers, and the internal team. See more at: http://consumaja.com/ **STILL IN DEVELOPMENT**
 
 # Relevant Academic Projects:
 
