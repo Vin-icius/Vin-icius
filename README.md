@@ -4,7 +4,7 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 
 # About me
 
-Estudante de Sistemas de Informação (7º período - UNOESTE) exerço desenvolvimento de software e busco consolidar minha carreira como Desenvolvedor. Minha formação tem me proporcionado sólida experiência na criação de soluções robustas e eficientes.
+Estudante de Sistemas de Informação (8º período - UNOESTE) exerço desenvolvimento de software e busco consolidar minha carreira como Desenvolvedor. Minha formação tem me proporcionado sólida experiência na criação de soluções robustas e eficientes.
 
 Experiência em Destaque:
 *Estágio Supervisionado | CASA DE SUCOS DE FRANCA LTDA:* Atuo no desenvolvimento de um sistema integrado (Web e Mobile) para otimizar as operações de venda e compra da empresa, utilizando Node.js para o back-end e React.js para o front-end. O projeto visa entregar uma solução completa para clientes, fornecedores e a equipe interna. Veja mais em: https://consumaja.com/ **AINDA EM FASE DE DESENVOLVIMENTO**
