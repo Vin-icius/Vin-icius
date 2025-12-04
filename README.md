@@ -27,7 +27,6 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 
 ## 🚀 Tecnologias
 
-Atuo principalmente com **JavaScript, TypeScript, React/React Native, SolidJS, Node.js, PHP e MySQL**.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
