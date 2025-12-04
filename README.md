@@ -7,11 +7,6 @@ Sou desenvolvedor **fullstack** com experiência em soluções modernas e escal�
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vin-icius&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-icius&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vin-icius&theme=radical" alt="Streak de contribuições"/>
 </p>
 
