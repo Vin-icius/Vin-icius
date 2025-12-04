@@ -2,6 +2,8 @@
 
 Sou desenvolvedor **fullstack** com experiência em soluções modernas e escaláveis.
 
+---
+
 # About me
 
 Estudante de Sistemas de Informação (8º período - UNOESTE) exerço desenvolvimento de software e busco consolidar minha carreira como Desenvolvedor. Minha formação tem me proporcionado sólida experiência na criação de soluções robustas e eficientes.
