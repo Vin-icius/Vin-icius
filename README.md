@@ -34,14 +34,6 @@ I am able to apply my knowledge in a professional environment, collaborate with 
 
 ---
 
-## Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vin-icius&theme=radical" alt="Streak de contribuições"/>
-</p>
-
----
-
 ## Activity
 
 I primarily work with **JavaScript, TypeScript, React/React Native, SolidJS, Node.js, PHP e MySQL**.
